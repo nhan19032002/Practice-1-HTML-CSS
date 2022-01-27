@@ -1,0 +1,11 @@
+{
+  "name": "practice-1-html-css",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
